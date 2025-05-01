@@ -2,7 +2,6 @@
 
 I'm from Argentina and I'm 28 years old
 
-⚡
 # 💫 About Me:
 I'm looking for a Jr Java Developer job or Java bootcamp to improve my skills<br><br>
 Currently taking an online full-stack  course taught by CEPIT (Tandil, Buenos Aires)<br>
