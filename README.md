@@ -8,7 +8,7 @@ Currently taking an online full-stack  course taught by CEPIT (Tandil, Buenos Ai
 Currently taking an online Java course in Udemy, including Spring framework and more<br>
 I'm about to graduate as a civil engineer (great problem-solving skills, teamwork, and adaptation)
 
-You can take a look at some of my projects in my portfolio:
+You can take a look at some of my projects in my portfolio:<br/>
 <a href="https://www.freecodecamp.org/certification/EnzoW/javascript-algorithms-and-data-structures-v8" target="_blank"><img style="height:250px;" src="./Certificados/Portfolio.png" alt="Portfolio" /></a>
 
 # 💻 Tech Stack:
