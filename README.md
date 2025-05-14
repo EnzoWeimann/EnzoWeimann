@@ -13,6 +13,7 @@ I'm about to graduate as a civil engineer (great problem-solving skills, teamwor
 
 # &#127891; Certificates:
 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1054182" target="_blank"><img style="height:250px;" src="./Certificados/Certificado_SCRUM.png" alt="SCRUM certificate" /><p>SCRUM certificate</p></a>
+<a href="https://freecodecamp.org/certification/EnzoW/responsive-web-design" target="_blank"><img style="height:250px;" src="./Certificados/Responsive_web_design.png" alt="Responsive web desing certificate" /><p>Responsive web desing certificate</p></a>
 
 
 # 📊 GitHub Stats:
