@@ -3,8 +3,8 @@
 I'm from Argentina and I'm 28 years old
 
 # 💫 About Me:
-I'm looking for a Jr Java Developer job or Java bootcamp to improve my skills<br><br>
-Currently taking an online full-stack  course taught by CEPIT (Tandil, Buenos Aires). It includes Github, SCRUM, Typescript, NestJs, MySQL, MongoDB, and more.<br>
+I'm looking for a Jr Developer job or bootcamp to improve my skills<br><br>
+Currently taking an online full-stack  course taught by CEPIT (Tandil, Buenos Aires). It includes Github, SCRUM, Typescript, React, NestJs, MySQL, MongoDB, and more.<br>
 Currently taking an online Java course in Udemy, including Spring framework, Angular, MySQL, Hibernate and more.<br>
 I'm about to graduate as a civil engineer (great problem-solving skills, teamwork, and adaptation)
 
